@@ -2,9 +2,7 @@
 
 Um projeto de Ciência de Dados e Bioacústica Computacional estado-da-arte, criado para classificação, mapeamento 3D e **tradução em tempo real** de vocalizações de saguis (*Callithrix jacchus*).
 
-<video src="https://github.com/ochristopherfilipe/tradutor-sagui-humano/blob/main/notebooks/SOTA.mov?raw=true" controls="controls" style="max-width: 100%;">
-  Seu navegador não suporta o vídeo.
-</video>
+![Demonstração do Tradutor](notebooks/SOTA.gif)
 
 ---
 
