@@ -41,7 +41,7 @@ Injetamos MFCCs, Chromagramas e Contrastes Espectrais. O mapa se torna visivelme
 
 Testamos o "cérebro" das máquinas contra o nosso banco de dados. O **SVM (Support Vector Machine)** corrigido escalou para o topo da cadeia evolutiva.
 
-| Acurácia das 11 Classes | Acurácia sota (Famílias Biológicas) |
+| Acurácia das 11 Classes | Acurácia SOTA (Famílias Biológicas) |
 | :--- | :--- |
 | ![Torneio 1](notebooks/torneio1.png) | ![Torneio 2](notebooks/torneio2.png) |
 
