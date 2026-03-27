@@ -2,7 +2,7 @@
 
 Um projeto de Ciência de Dados e Bioacústica Computacional estado-da-arte, criado para classificação, mapeamento 3D e **tradução em tempo real** de vocalizações de saguis (*Callithrix jacchus*).
 
-![Demonstração do Tradutor](notebooks/SOTA.gif)
+![Demonstração do Tradutor](notebooks/sota.gif)
 
 ---
 
