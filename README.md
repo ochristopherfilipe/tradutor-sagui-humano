@@ -2,7 +2,9 @@
 
 Um projeto de Ciência de Dados e Bioacústica Computacional estado-da-arte, criado para classificação, mapeamento 3D e **tradução em tempo real** de vocalizações de saguis (*Callithrix jacchus*).
 
-![Demonstração do Tradutor SOTA](notebooks/SOTA.mov)
+<video src="notebooks/SOTA.mov" controls="controls" style="max-width: 100%;">
+  Seu navegador não suporta o vídeo.
+</video>
 
 ---
 
