@@ -15,6 +15,10 @@ Para quebrar o teto da "Acurácia Média", combinamos:
 Livre das abstrações de tabelas de avaliação métrica, incorporamos um aplicativo interativo dentro de nosso fluxo Python:
 Ao rodar as bibliotecas gráficas `ipywidgets`, e ligar módulos como o `sounddevice`, nós transformamos nosso Notebook em um gravador real. \nVocê consegue falar no Microfone da Máquina, aplicar um **Filtro de Ruído Interno da Placa (Noise Gate)** e assistir as ondas do gogó serem traduzidas pra sentenças símias na tela!
 
+<img width="1007" height="183" alt="Captura de Tela 2026-03-27 às 13 33 50" src="https://github.com/user-attachments/assets/e3f4894d-27e5-4766-aedb-2ed70dc2ecdc" />
+
+<img width="989" height="550" alt="Captura de Tela 2026-03-27 às 13 33 06" src="https://github.com/user-attachments/assets/31a16e62-2422-4285-b6b6-c30772a456bb" />
+
 ## Estrutura do Repositório
 - `audios/`: Classes originais separadas em 11 diretórios brutais (*Tsik, Trill, Alarm, etc*).
 - `dataset_split/`: Balanceamento limpo de validação cruzada para testes robustos.
